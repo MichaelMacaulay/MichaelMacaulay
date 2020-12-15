@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael!
 
-- 🔭 I’m currently working on React & Node projects.
+- 🔭 I’m currently working with React & Django.
 - 👯 I’m looking to collaborate on innovative open source projects.
 - 📫 How to reach me: https://msmacaulay.com/
 - 😄 Pronouns: he/him
