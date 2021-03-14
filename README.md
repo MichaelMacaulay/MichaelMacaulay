@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Michael!
+### Hi there 👋 I'm Michael! I'm a blockchain developer.
 
-- 🔭 I’m currently working with React & Django.
-- 👯 I’m looking to collaborate on innovative open source projects.
+- 🔭 I work with React & Soldiity.
+- 👯 I’m looking to help build web 3.0
 - 📫 How to reach me: https://msmacaulay.com/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a full-time YouTuber for 2 years. 
