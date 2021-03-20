@@ -1,9 +1,8 @@
-### Hi there 👋 I'm Michael! I'm a blockchain developer.
+### Hello world, I'm Michael! I'm a Blockchain Developer.
 
 - 🔭 I work with React & Soldiity.
-- 👯 I’m looking to help build web 3.0
+- 👯 I’m building web 3.0
 - 📫 How to reach me: https://msmacaulay.com/
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a full-time YouTuber for 2 years. 
 
 <!--
