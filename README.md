@@ -3,7 +3,7 @@
 - 🔭 I work with React & Soldiity.
 - 👯 I’m building web 3.0
 - 📫 How to reach me: MichaelMacaulay33@gmail.com
-- ⚡ Fun fact: I was a full-time YouTuber for 2 years. 
+- ⚡ Fun fact: I was a full-time YouTuber.
 
 ## Who am I?
 
