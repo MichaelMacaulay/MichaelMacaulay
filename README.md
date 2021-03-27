@@ -1,14 +1,26 @@
-### Hello world, I'm Michael! I'm a Blockchain Developer.
+### Hello world, I'm Michael! I'm a Web & Blockchain Developer.
 
 - 🔭 I work with React & Soldiity.
 - 👯 I’m building web 3.0
 - 📫 How to reach me: MichaelMacaulay33@gmail.com
 - ⚡ Fun fact: I was a full-time YouTuber for 2 years. 
 
-<!--
-**MichaelMacaulay/MichaelMacaulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
-
-
--->
+```js
+const self = {
+  name: 'Michael Macaulay',
+  age: 24,
+  programmingLanguages: ['Solidity', 'JavaScript'],
+  humanLanguages: ['English', 'Español'],
+  likesToDo: ['Code', 'HODL', 'Contemplate philosophy'],
+  MBTI: 'INTJ',
+  favorite: {
+    food: 'Undercooked steak',
+    color: 'blue',
+    show: 'Breaking Bad',
+    cryptocurrency: 'Ethereum',
+    philosopher: 'Nietzsche'
+  }
+}
+```
