@@ -13,11 +13,11 @@ const self = {
   age: 24,
   programmingLanguages: ['Solidity', 'JavaScript'],
   humanLanguages: ['English', 'Español'],
-  likesToDo: ['Code', 'HODL', 'Contemplate philosophy'],
+  likesToDo: ['Code', 'HODL', 'philosophize'],
   MBTI: 'INTJ',
   favorite: {
     food: 'Undercooked steak',
-    color: 'blue',
+    exercise: 'running',
     show: 'Breaking Bad',
     cryptocurrency: 'Ethereum',
     philosopher: 'Nietzsche'
