@@ -9,11 +9,11 @@
 
 ```js
 const self = {
-  name: 'Michael Macaulay',
+  name: 'Michael Scott Macaulay',
   age: 24,
   programmingLanguages: ['Solidity', 'JavaScript'],
   humanLanguages: ['English', 'Español'],
-  likesToDo: ['Code', 'HODL', 'philosophize'],
+  likesToDo: ['Code', 'read history', 'philosophize', 'HODL'],
   MBTI: 'INTJ',
   favorite: {
     food: 'Undercooked steak',
