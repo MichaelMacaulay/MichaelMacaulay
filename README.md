@@ -11,9 +11,9 @@
 const self = {
   name: 'Michael Scott Macaulay',
   age: 24,
-  programmingLanguages: ['Solidity', 'JavaScript'],
+  programmingLanguages: ['JavaScript', 'Solidity'],
   humanLanguages: ['English', 'Español'],
-  likesToDo: ['Code', 'read history', 'philosophize', 'HODL'],
+  likesTo: ['Code', 'read history', 'philosophize', 'HODL'],
   MBTI: 'INTJ',
   favorite: {
     food: 'Undercooked steak',
