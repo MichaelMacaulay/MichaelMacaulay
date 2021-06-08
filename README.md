@@ -10,9 +10,10 @@
 ```js
 const self = {
   name: 'Michael Scott Macaulay',
+  alias: 'Micmac',
   age: 24,
   programmingLanguages: ['JavaScript', 'Solidity'],
-  humanLanguages: ['English', 'Español'],
+  humanLanguages: ['English', 'Deutsch'],
   likesTo: ['Code', 'read history', 'philosophize', 'HODL'],
   MBTI: 'INTJ',
   favorite: {
