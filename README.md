@@ -1,4 +1,4 @@
-### Hello world, I'm Michael! I'm a Web3 Developer
+### gm, I'm Michael. A Web3 Developer
 
 - 🔭 I love Soldiity & React.
 - 👯 I’m building web 3.0
