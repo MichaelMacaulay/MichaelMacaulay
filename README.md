@@ -1,4 +1,4 @@
-### gm, I'm Michael. A Web3 Developer
+### gm, I'm Michael. A Web3 Developer at LiveArtX
 
 - 🔭 I love Soldiity & React.
 - 👯 I’m building web 3.0
