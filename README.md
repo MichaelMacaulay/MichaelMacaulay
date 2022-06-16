@@ -1,8 +1,7 @@
-### gm, I'm Michael. A Web3 Developer at LiveArtX
+### gm, I'm Michael. I'm a Technical Writer at [Edge and Node](https://edgeandnode.com/).
 
-- 🔭 I love Soldiity & React.
-- 👯 I’m building web 3.0
+- 🔭 I write about web3 on my [personal website](https://www.micmac.blog/).
+- ⚡ Fun fact: I write a newsletter about the [web3 Creator Economy](https://cryptocreatives.substack.com/).
 - 📫 How to reach me: micmac.eth@protonmail.com
-- ⚡ Fun fact: I write a newsletter about the [Crypto Creator Economy](https://cryptocreatives.substack.com/).
 
 
