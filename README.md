@@ -2,5 +2,5 @@
 
 - 🔭 I write about tech on [Medium](https://michael-macaulay.medium.com/).
 - ⚡ Fun fact: I write a newsletter about the [web3 Creator Economy](https://cryptocreatives.substack.com/).
-- 📫 How to reach me: micmac132@proton.me
+- 📫 How to reach me: micmac.eth@protonmail.com
 
