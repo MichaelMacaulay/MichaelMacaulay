@@ -2,4 +2,4 @@
 
 - 📺 I make videos about tech, programming, and web3 on [YouTube](https://www.youtube.com/@michael-macaulay)
 - 📝 I also write tutorials and blogs on [Medium](https://micmac.blog/)
-- 📫 You can reach me: micmac.eth@protonmail.com
+- 📫 Reach me: micmac.eth@protonmail.com
