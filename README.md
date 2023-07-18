@@ -1,5 +1,4 @@
 ### gm! I'm Michael, a Technical Writer at [Edge and Node](https://edgeandnode.com/).
 
-- 📺 I make videos about tech, programming, and web3 on [YouTube](https://www.youtube.com/@michael-macaulay)
-- 📝 I also write tutorials and blogs on [Medium](https://micmac.blog/)
+- 📝 Sometimes I write blogs on [Medium](https://micmac.blog/) or [Substack](https://michaelmacaulay.substack.com/)
 - 📫 Reach me: micmac.eth@protonmail.com
