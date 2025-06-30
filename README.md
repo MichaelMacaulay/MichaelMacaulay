@@ -1,5 +1,5 @@
 ## gm, I'm Michael!
 
-- I'm a writer at [Edge and Node](https://edgeandnode.com/)
+- I'm the Head of Content & Communications at [Semiotic Labs](https://www.semiotic.ai/)
 - 📫 You can contact me at: micmac.eth@protonmail.com
-- 📝 I also write [technical tutorials on Medium](https://medium.com/@michael-macaulay) and armchair philosophy at [Letters to web3](https://letterstoweb3.substack.com/)
+- 📝 I also write [technical tutorials on Medium](https://medium.com/@michael-macaulay)
